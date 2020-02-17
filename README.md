@@ -1,3 +1,6 @@
+This fork adds net core support to RudeySH's fork
+
+## RudeySH's fork info
 This a fork that adds various features and bugfixes to the original EFUtilities by Mikael Eliasson. Below is a modified version of the original README.md.
 
 ## The goal
